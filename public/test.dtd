@@ -1,0 +1,4 @@
+<!DOCTYPE request [
+<!ENTITY include SYSTEM “file=/etc/passwd"
+>
+]>
